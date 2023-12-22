@@ -1,2 +1,4 @@
 /target
 .DS_Store
+/src/Day21/**
+!/src/Day21/Day21.rs
